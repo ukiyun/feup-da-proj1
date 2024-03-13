@@ -96,8 +96,7 @@
 			"name" : "Header Files",
 			"sourceIndexes" : 
 			[
-				1,
-				2
+				1
 			]
 		}
 	],
@@ -112,11 +111,6 @@
 		{
 			"backtrace" : 1,
 			"path" : "Code/include/menu.h",
-			"sourceGroupIndex" : 1
-		},
-		{
-			"backtrace" : 1,
-			"path" : "Code/include/aubi.h",
 			"sourceGroupIndex" : 1
 		}
 	],
