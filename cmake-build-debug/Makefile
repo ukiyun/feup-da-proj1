@@ -128,6 +128,150 @@ untitled/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/build
 .PHONY : untitled/fast
 
+Code/src/Cities.obj: Code/src/Cities.cpp.obj
+.PHONY : Code/src/Cities.obj
+
+# target to build an object file
+Code/src/Cities.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Code/src/Cities.cpp.obj
+.PHONY : Code/src/Cities.cpp.obj
+
+Code/src/Cities.i: Code/src/Cities.cpp.i
+.PHONY : Code/src/Cities.i
+
+# target to preprocess a source file
+Code/src/Cities.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Code/src/Cities.cpp.i
+.PHONY : Code/src/Cities.cpp.i
+
+Code/src/Cities.s: Code/src/Cities.cpp.s
+.PHONY : Code/src/Cities.s
+
+# target to generate assembly for a file
+Code/src/Cities.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Code/src/Cities.cpp.s
+.PHONY : Code/src/Cities.cpp.s
+
+Code/src/FileHandler.obj: Code/src/FileHandler.cpp.obj
+.PHONY : Code/src/FileHandler.obj
+
+# target to build an object file
+Code/src/FileHandler.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Code/src/FileHandler.cpp.obj
+.PHONY : Code/src/FileHandler.cpp.obj
+
+Code/src/FileHandler.i: Code/src/FileHandler.cpp.i
+.PHONY : Code/src/FileHandler.i
+
+# target to preprocess a source file
+Code/src/FileHandler.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Code/src/FileHandler.cpp.i
+.PHONY : Code/src/FileHandler.cpp.i
+
+Code/src/FileHandler.s: Code/src/FileHandler.cpp.s
+.PHONY : Code/src/FileHandler.s
+
+# target to generate assembly for a file
+Code/src/FileHandler.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Code/src/FileHandler.cpp.s
+.PHONY : Code/src/FileHandler.cpp.s
+
+Code/src/Menu.obj: Code/src/Menu.cpp.obj
+.PHONY : Code/src/Menu.obj
+
+# target to build an object file
+Code/src/Menu.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Code/src/Menu.cpp.obj
+.PHONY : Code/src/Menu.cpp.obj
+
+Code/src/Menu.i: Code/src/Menu.cpp.i
+.PHONY : Code/src/Menu.i
+
+# target to preprocess a source file
+Code/src/Menu.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Code/src/Menu.cpp.i
+.PHONY : Code/src/Menu.cpp.i
+
+Code/src/Menu.s: Code/src/Menu.cpp.s
+.PHONY : Code/src/Menu.s
+
+# target to generate assembly for a file
+Code/src/Menu.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Code/src/Menu.cpp.s
+.PHONY : Code/src/Menu.cpp.s
+
+Code/src/Pipes.obj: Code/src/Pipes.cpp.obj
+.PHONY : Code/src/Pipes.obj
+
+# target to build an object file
+Code/src/Pipes.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Code/src/Pipes.cpp.obj
+.PHONY : Code/src/Pipes.cpp.obj
+
+Code/src/Pipes.i: Code/src/Pipes.cpp.i
+.PHONY : Code/src/Pipes.i
+
+# target to preprocess a source file
+Code/src/Pipes.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Code/src/Pipes.cpp.i
+.PHONY : Code/src/Pipes.cpp.i
+
+Code/src/Pipes.s: Code/src/Pipes.cpp.s
+.PHONY : Code/src/Pipes.s
+
+# target to generate assembly for a file
+Code/src/Pipes.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Code/src/Pipes.cpp.s
+.PHONY : Code/src/Pipes.cpp.s
+
+Code/src/Reservoirs.obj: Code/src/Reservoirs.cpp.obj
+.PHONY : Code/src/Reservoirs.obj
+
+# target to build an object file
+Code/src/Reservoirs.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Code/src/Reservoirs.cpp.obj
+.PHONY : Code/src/Reservoirs.cpp.obj
+
+Code/src/Reservoirs.i: Code/src/Reservoirs.cpp.i
+.PHONY : Code/src/Reservoirs.i
+
+# target to preprocess a source file
+Code/src/Reservoirs.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Code/src/Reservoirs.cpp.i
+.PHONY : Code/src/Reservoirs.cpp.i
+
+Code/src/Reservoirs.s: Code/src/Reservoirs.cpp.s
+.PHONY : Code/src/Reservoirs.s
+
+# target to generate assembly for a file
+Code/src/Reservoirs.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Code/src/Reservoirs.cpp.s
+.PHONY : Code/src/Reservoirs.cpp.s
+
+Code/src/Stations.obj: Code/src/Stations.cpp.obj
+.PHONY : Code/src/Stations.obj
+
+# target to build an object file
+Code/src/Stations.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Code/src/Stations.cpp.obj
+.PHONY : Code/src/Stations.cpp.obj
+
+Code/src/Stations.i: Code/src/Stations.cpp.i
+.PHONY : Code/src/Stations.i
+
+# target to preprocess a source file
+Code/src/Stations.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Code/src/Stations.cpp.i
+.PHONY : Code/src/Stations.cpp.i
+
+Code/src/Stations.s: Code/src/Stations.cpp.s
+.PHONY : Code/src/Stations.s
+
+# target to generate assembly for a file
+Code/src/Stations.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Code/src/Stations.cpp.s
+.PHONY : Code/src/Stations.cpp.s
+
 main.obj: main.cpp.obj
 .PHONY : main.obj
 
@@ -161,6 +305,24 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... untitled
+	@echo ... Code/src/Cities.obj
+	@echo ... Code/src/Cities.i
+	@echo ... Code/src/Cities.s
+	@echo ... Code/src/FileHandler.obj
+	@echo ... Code/src/FileHandler.i
+	@echo ... Code/src/FileHandler.s
+	@echo ... Code/src/Menu.obj
+	@echo ... Code/src/Menu.i
+	@echo ... Code/src/Menu.s
+	@echo ... Code/src/Pipes.obj
+	@echo ... Code/src/Pipes.i
+	@echo ... Code/src/Pipes.s
+	@echo ... Code/src/Reservoirs.obj
+	@echo ... Code/src/Reservoirs.i
+	@echo ... Code/src/Reservoirs.s
+	@echo ... Code/src/Stations.obj
+	@echo ... Code/src/Stations.i
+	@echo ... Code/src/Stations.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

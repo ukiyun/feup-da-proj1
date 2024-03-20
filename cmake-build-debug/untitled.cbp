@@ -82,7 +82,40 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/mmaru/Desktop/uni/UNI_2023-24/DA/feup-da-proj1/Code/include/menu.h">
+		<Unit filename="C:/Users/mmaru/Desktop/uni/UNI_2023-24/DA/feup-da-proj1/Code/include/Cities.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/mmaru/Desktop/uni/UNI_2023-24/DA/feup-da-proj1/Code/include/FileHandler.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/mmaru/Desktop/uni/UNI_2023-24/DA/feup-da-proj1/Code/include/Menu.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/mmaru/Desktop/uni/UNI_2023-24/DA/feup-da-proj1/Code/include/Pipes.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/mmaru/Desktop/uni/UNI_2023-24/DA/feup-da-proj1/Code/include/Reservoirs.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/mmaru/Desktop/uni/UNI_2023-24/DA/feup-da-proj1/Code/include/Stations.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/mmaru/Desktop/uni/UNI_2023-24/DA/feup-da-proj1/Code/src/Cities.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/mmaru/Desktop/uni/UNI_2023-24/DA/feup-da-proj1/Code/src/FileHandler.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/mmaru/Desktop/uni/UNI_2023-24/DA/feup-da-proj1/Code/src/Menu.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/mmaru/Desktop/uni/UNI_2023-24/DA/feup-da-proj1/Code/src/Pipes.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/mmaru/Desktop/uni/UNI_2023-24/DA/feup-da-proj1/Code/src/Reservoirs.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/mmaru/Desktop/uni/UNI_2023-24/DA/feup-da-proj1/Code/src/Stations.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/mmaru/Desktop/uni/UNI_2023-24/DA/feup-da-proj1/main.cpp">
