@@ -5,9 +5,9 @@
 
 using namespace std;
 
-/// @class Cities
+/// @class City
 /// @brief Stores the Information Regarding Delivery Sites
-class Cities {
+class City {
 public:
     /// @brief A Constructor for the Delivery Site
     /// @param city String with the Name of the City
@@ -15,29 +15,29 @@ public:
     /// @param city_code String with the Code of the Delivery Site
     /// @param demand Integer with the Rate Demand or Need of Delivery Site in m3/sec
     /// @param population Integer with the Total Population of the Delivery Site
-    Cities(string city, int city_id, string city_code, int demand, int population);
+    City(string city, int city_id, string city_code, int demand, int population);
 
     /// @brief A Default Empty Constructor for the Delivery Site
-    Cities() = default;
+    City() = default;
 
     /// @brief A Function used to get the City of a Delivery Site
-    /// @return Returns the City of a Delivery Site
+    /// @return Returns the String of the City of a Delivery Site
     string getCity() const;
 
     /// @brief A Function used to get the ID of a Delivery Site
-    /// @return Returns the ID of a Delivery Site
+    /// @return Returns the Integer of the ID of a Delivery Site
     int getCityId() const;
 
     /// @brief A Function used to get the Code of a Delivery Site
-    /// @return Returns the Code of a Delivery Site
+    /// @return Returns the String of the Code of a Delivery Site
     string getCityCode() const;
 
     /// @brief A Function used to get the Demand of a Delivery Site
-    /// @return Returns the Rate Demand or Need of Delivery Site
+    /// @return Returns the Integer of the Rate Demand or Need of Delivery Site
     int getDemand() const;
 
     /// @brief A Function used to get the Total Population of a Delivery Site
-    /// @return Returns the Total Population of Delivery Site
+    /// @return Returns the Integer of the Total Population of Delivery Site
     int getPopulation() const;
 private:
     /// @brief City of Delievery Site

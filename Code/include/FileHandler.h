@@ -1,14 +1,6 @@
 #ifndef FILEHANDLER_H
 #define FILEHANDLER_H
 
-/*
-All datasets:
-- Reservoirs (Reservoir, Municipality, ReservoirId, ReservoirCode, MaxDelievery)
-- Pumping Stations (StationId, StationCode)
-- Delivery Sites (City, CityId, CityCode, Demand, Population)
-- Pipelines (ServicePointA, ServicePointB, Capacity, Direction)
-*/
-
 #include <string>
 #include <iostream>
 #include <fstream>
@@ -16,28 +8,70 @@ All datasets:
 #include <vector>
 #include <unordered_map>
 #include <unordered_set>
+#include "Reservoirs.h"
+#include "Stations.h"
+#include "Cities.h"
+#include "Pipes.h"
 
 
 using namespace std;
 
-class fileHandler {
-
+///@class FileHandler
+///@brief Class used for the handling of the datasets, i.e., connecting the dataset with the program
+class FileHandler {
 public:
-    void readReservoirs();      // read Reservoirs.csv
-    void loadReservoirs();
-    // missing function to get vector with all Reservoirs
+    ///@brief A Function used to read the Reservoirs CSV
+    void readReservoirs();
 
-    void readStations();        // read Stations.csv
-    void loadStations();
-    // missing function to get vector with all Stations
+    ///@brief A Function that when a line in CSV is read, Update the Reservoirs Vector by Adding the new Line
+    void parseReservoir(string currLine);
 
-    void readCities();          // read Cities.csv
-    void loadCities();
-    // missing function to get vector with all Delivery Sites
+    ///@brief A Function used get the vector with all Reservoirs
+    ///@return Returns the Vector Containing all the Reservoirs
+    vector<Reservoir> getReservoirsVector();
 
-    void readPipes();           // read Pipes.csv
-    void loadPipes();
-    // missing function to get vector with all Pipelines
+    ///@brief A Function used to read the Stations CSV
+    void readStations();
+
+    ///@brief A Function that when a line in CSV is read, Update the Stations Vector by Adding the new Line
+    void parseStation(string currLine);
+
+    ///@brief A Function used get the vector with all Stations
+    ///@return Returns the Vector Containing all the Stations
+    vector<Station> getStationsVector();
+
+    ///@brief A Function used to read the Cities CSV
+    void readCities();
+
+    ///@brief A Function that when a line in CSV is read, Update the Cities Vector by Adding the new Line
+    void parseCity(string currLine);
+
+    ///@brief A Function used get the vector with all Cities
+    ///@return Returns the Vector Containing all the Cities
+    vector<City> getCitiesVector();
+
+    ///@brief A Function used to read the Pipes CSV
+    void readPipes();
+
+    ///@brief A Function that when a line in CSV is read, Update the Pipes Vector by Adding the new Line
+    void parsePipe(string currLine);
+
+    ///@brief A Function used get the vector with all Pipes
+    ///@return Returns the Vector Containing all the Pipelines
+    vector<Pipe> getPipesVector();
+private:
+    ///@brief Vector with the Water Reservoirs
+    vector<Reservoir> reservoirs_;
+
+    ///@brief Vector with the Pumping Stations
+    vector<Station> stations_;
+
+    ///@brief Vector with the Cities (Delivery Sites)
+    vector<City> cities_;
+
+    ///@brief Vector with the Pipelines Connecting Cities, Reservoirs and Stations
+    vector<Pipe> pipes_;
+
 };
 
 

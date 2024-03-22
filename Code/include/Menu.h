@@ -8,9 +8,8 @@ public:
     void open();
     bool printUserMenu();
 private:
-    fileHandler loadedFiles;
+    FileHandler loadedFiles;
     string type_;
 };
 
-v
 #endif //MENU_H

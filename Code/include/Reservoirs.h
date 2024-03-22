@@ -20,23 +20,23 @@ public:
     Reservoir() = default; // Default Constructor
 
     /// @brief A Function used to get the Name of a Water Reservoir
-    /// @return Returns the Name of a Water Reservoir
+    /// @return Returns the String of the Name of a Water Reservoir
     string getReservoirName() const;    // Return the name of the reservoir
 
     /// @brief A Function used to get the Municipality of a Water Reservoir
-    /// @return Returns the Municipality of a Water Reservoir
+    /// @return Returns the String of the Municipality of a Water Reservoir
     string getMunicipality() const;     // Return the name of the municipality
 
     /// @brief A Function used to get the ID of a Water Reservoir
-    /// @return Returns the ID of a Water Reservoir
+    /// @return Returns the Integer of the ID of a Water Reservoir
     int getReservoirId() const;         // Return the reservoir id
 
     /// @brief A Function used to get the City of a Delivery Site
-    /// @return Returns the City of a Delivery Site
+    /// @return Returns the String of the City of a Delivery Site
     string getReservoirCode() const;    // Return the reservoir code
 
     /// @brief A Function used to get the City of a Delivery Site
-    /// @return Returns the City of a Delivery Site
+    /// @return Returns the Integer of the City of a Delivery Site
     int getMaxDelivery() const;         // Return the max delivery
 private:
     /// @brief Water Reservoir Name
