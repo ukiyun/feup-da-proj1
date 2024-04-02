@@ -2,7 +2,7 @@
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6"/>
 	<Project>
-		<Option title="untitled"/>
+		<Option title="DAProject"/>
 		<Option makefile_is_custom="1"/>
 		<Option compiler="gcc"/>
 		<Option virtualFolders="CMake Files\;"/>
@@ -103,6 +103,9 @@
 		<Unit filename="C:/Users/mmaru/Desktop/uni/UNI_2023-24/DA/feup-da-proj1/Code/include/Stations.h">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="C:/Users/mmaru/Desktop/uni/UNI_2023-24/DA/feup-da-proj1/Code/include/Utils.h">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="C:/Users/mmaru/Desktop/uni/UNI_2023-24/DA/feup-da-proj1/Code/src/Cities.cpp">
 			<Option target="untitled"/>
 		</Unit>
@@ -125,9 +128,6 @@
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/mmaru/Desktop/uni/UNI_2023-24/DA/feup-da-proj1/Code/src/Utils.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/mmaru/Desktop/uni/UNI_2023-24/DA/feup-da-proj1/Code/src/Utils.h">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/mmaru/Desktop/uni/UNI_2023-24/DA/feup-da-proj1/main.cpp">
