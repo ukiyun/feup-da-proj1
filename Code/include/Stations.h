@@ -26,7 +26,7 @@ public:
     string getStationCode() const;
 private:
     /// @brief Id of Pumping Station
-    int station_id_;
+    int station_id_a;
 
     /// @brief Code of Pumping Station
     string station_code_;
