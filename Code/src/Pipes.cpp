@@ -6,7 +6,7 @@ Pipe::Pipe(string service_point_a, string service_point_b, int capacity, bool di
     service_point_a_ = service_point_a;
     service_point_b_ = service_point_b;
     capacity_ = capacity;
-    direction_ = directio;
+    direction_ = direction;
 }
 
 string Pipe::getPointA() const {
