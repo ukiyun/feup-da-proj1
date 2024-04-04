@@ -16,8 +16,8 @@ add_executable(untitled main.cpp
         Code/src/Pipes.cpp
         Code/src/Reservoirs.cpp
         Code/src/Stations.cpp
-        Code/src/Graph.cpp
-        Code/include/Graph.h
         Code/src/Utils.cpp
         Code/include/Utils.h
+        Code/src/Graph.cpp
+        Code/include/Graph.h
 )
