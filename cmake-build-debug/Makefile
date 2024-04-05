@@ -320,30 +320,6 @@ Code/src/Utils.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Code/src/Utils.cpp.s
 .PHONY : Code/src/Utils.cpp.s
 
-Code/src/newGraph.obj: Code/src/newGraph.cpp.obj
-.PHONY : Code/src/newGraph.obj
-
-# target to build an object file
-Code/src/newGraph.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Code/src/newGraph.cpp.obj
-.PHONY : Code/src/newGraph.cpp.obj
-
-Code/src/newGraph.i: Code/src/newGraph.cpp.i
-.PHONY : Code/src/newGraph.i
-
-# target to preprocess a source file
-Code/src/newGraph.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Code/src/newGraph.cpp.i
-.PHONY : Code/src/newGraph.cpp.i
-
-Code/src/newGraph.s: Code/src/newGraph.cpp.s
-.PHONY : Code/src/newGraph.s
-
-# target to generate assembly for a file
-Code/src/newGraph.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Code/src/newGraph.cpp.s
-.PHONY : Code/src/newGraph.cpp.s
-
 main.obj: main.cpp.obj
 .PHONY : main.obj
 
@@ -401,9 +377,6 @@ help:
 	@echo ... Code/src/Utils.obj
 	@echo ... Code/src/Utils.i
 	@echo ... Code/src/Utils.s
-	@echo ... Code/src/newGraph.obj
-	@echo ... Code/src/newGraph.i
-	@echo ... Code/src/newGraph.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

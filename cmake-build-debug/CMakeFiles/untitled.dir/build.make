@@ -166,24 +166,10 @@ CMakeFiles/untitled.dir/Code/src/Stations.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Code/src/Stations.cpp.s"
 	C:\Users\mmaru\AppData\Local\Programs\CLion\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\mmaru\Desktop\uni\UNI_2023-24\DA\feup-da-proj1\Code\src\Stations.cpp -o CMakeFiles\untitled.dir\Code\src\Stations.cpp.s
 
-CMakeFiles/untitled.dir/Code/src/Graph.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/Code/src/Graph.cpp.obj: C:/Users/mmaru/Desktop/uni/UNI_2023-24/DA/feup-da-proj1/Code/src/Graph.cpp
-CMakeFiles/untitled.dir/Code/src/Graph.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\mmaru\Desktop\uni\UNI_2023-24\DA\feup-da-proj1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/untitled.dir/Code/src/Graph.cpp.obj"
-	C:\Users\mmaru\AppData\Local\Programs\CLion\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/Code/src/Graph.cpp.obj -MF CMakeFiles\untitled.dir\Code\src\Graph.cpp.obj.d -o CMakeFiles\untitled.dir\Code\src\Graph.cpp.obj -c C:\Users\mmaru\Desktop\uni\UNI_2023-24\DA\feup-da-proj1\Code\src\Graph.cpp
-
-CMakeFiles/untitled.dir/Code/src/Graph.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Code/src/Graph.cpp.i"
-	C:\Users\mmaru\AppData\Local\Programs\CLion\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\mmaru\Desktop\uni\UNI_2023-24\DA\feup-da-proj1\Code\src\Graph.cpp > CMakeFiles\untitled.dir\Code\src\Graph.cpp.i
-
-CMakeFiles/untitled.dir/Code/src/Graph.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Code/src/Graph.cpp.s"
-	C:\Users\mmaru\AppData\Local\Programs\CLion\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\mmaru\Desktop\uni\UNI_2023-24\DA\feup-da-proj1\Code\src\Graph.cpp -o CMakeFiles\untitled.dir\Code\src\Graph.cpp.s
-
 CMakeFiles/untitled.dir/Code/src/Utils.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/Code/src/Utils.cpp.obj: C:/Users/mmaru/Desktop/uni/UNI_2023-24/DA/feup-da-proj1/Code/src/Utils.cpp
 CMakeFiles/untitled.dir/Code/src/Utils.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\mmaru\Desktop\uni\UNI_2023-24\DA\feup-da-proj1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/untitled.dir/Code/src/Utils.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\mmaru\Desktop\uni\UNI_2023-24\DA\feup-da-proj1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/untitled.dir/Code/src/Utils.cpp.obj"
 	C:\Users\mmaru\AppData\Local\Programs\CLion\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/Code/src/Utils.cpp.obj -MF CMakeFiles\untitled.dir\Code\src\Utils.cpp.obj.d -o CMakeFiles\untitled.dir\Code\src\Utils.cpp.obj -c C:\Users\mmaru\Desktop\uni\UNI_2023-24\DA\feup-da-proj1\Code\src\Utils.cpp
 
 CMakeFiles/untitled.dir/Code/src/Utils.cpp.i: cmake_force
@@ -194,19 +180,19 @@ CMakeFiles/untitled.dir/Code/src/Utils.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Code/src/Utils.cpp.s"
 	C:\Users\mmaru\AppData\Local\Programs\CLion\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\mmaru\Desktop\uni\UNI_2023-24\DA\feup-da-proj1\Code\src\Utils.cpp -o CMakeFiles\untitled.dir\Code\src\Utils.cpp.s
 
-CMakeFiles/untitled.dir/Code/src/newGraph.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/Code/src/newGraph.cpp.obj: C:/Users/mmaru/Desktop/uni/UNI_2023-24/DA/feup-da-proj1/Code/src/newGraph.cpp
-CMakeFiles/untitled.dir/Code/src/newGraph.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\mmaru\Desktop\uni\UNI_2023-24\DA\feup-da-proj1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/untitled.dir/Code/src/newGraph.cpp.obj"
-	C:\Users\mmaru\AppData\Local\Programs\CLion\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/Code/src/newGraph.cpp.obj -MF CMakeFiles\untitled.dir\Code\src\newGraph.cpp.obj.d -o CMakeFiles\untitled.dir\Code\src\newGraph.cpp.obj -c C:\Users\mmaru\Desktop\uni\UNI_2023-24\DA\feup-da-proj1\Code\src\newGraph.cpp
+CMakeFiles/untitled.dir/Code/src/Graph.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Code/src/Graph.cpp.obj: C:/Users/mmaru/Desktop/uni/UNI_2023-24/DA/feup-da-proj1/Code/src/Graph.cpp
+CMakeFiles/untitled.dir/Code/src/Graph.cpp.obj: CMakeFiles/untitled.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\mmaru\Desktop\uni\UNI_2023-24\DA\feup-da-proj1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/untitled.dir/Code/src/Graph.cpp.obj"
+	C:\Users\mmaru\AppData\Local\Programs\CLion\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/Code/src/Graph.cpp.obj -MF CMakeFiles\untitled.dir\Code\src\Graph.cpp.obj.d -o CMakeFiles\untitled.dir\Code\src\Graph.cpp.obj -c C:\Users\mmaru\Desktop\uni\UNI_2023-24\DA\feup-da-proj1\Code\src\Graph.cpp
 
-CMakeFiles/untitled.dir/Code/src/newGraph.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Code/src/newGraph.cpp.i"
-	C:\Users\mmaru\AppData\Local\Programs\CLion\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\mmaru\Desktop\uni\UNI_2023-24\DA\feup-da-proj1\Code\src\newGraph.cpp > CMakeFiles\untitled.dir\Code\src\newGraph.cpp.i
+CMakeFiles/untitled.dir/Code/src/Graph.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Code/src/Graph.cpp.i"
+	C:\Users\mmaru\AppData\Local\Programs\CLion\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\mmaru\Desktop\uni\UNI_2023-24\DA\feup-da-proj1\Code\src\Graph.cpp > CMakeFiles\untitled.dir\Code\src\Graph.cpp.i
 
-CMakeFiles/untitled.dir/Code/src/newGraph.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Code/src/newGraph.cpp.s"
-	C:\Users\mmaru\AppData\Local\Programs\CLion\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\mmaru\Desktop\uni\UNI_2023-24\DA\feup-da-proj1\Code\src\newGraph.cpp -o CMakeFiles\untitled.dir\Code\src\newGraph.cpp.s
+CMakeFiles/untitled.dir/Code/src/Graph.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Code/src/Graph.cpp.s"
+	C:\Users\mmaru\AppData\Local\Programs\CLion\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\mmaru\Desktop\uni\UNI_2023-24\DA\feup-da-proj1\Code\src\Graph.cpp -o CMakeFiles\untitled.dir\Code\src\Graph.cpp.s
 
 # Object files for target untitled
 untitled_OBJECTS = \
@@ -217,9 +203,8 @@ untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/Code/src/Pipes.cpp.obj" \
 "CMakeFiles/untitled.dir/Code/src/Reservoirs.cpp.obj" \
 "CMakeFiles/untitled.dir/Code/src/Stations.cpp.obj" \
-"CMakeFiles/untitled.dir/Code/src/Graph.cpp.obj" \
 "CMakeFiles/untitled.dir/Code/src/Utils.cpp.obj" \
-"CMakeFiles/untitled.dir/Code/src/newGraph.cpp.obj"
+"CMakeFiles/untitled.dir/Code/src/Graph.cpp.obj"
 
 # External object files for target untitled
 untitled_EXTERNAL_OBJECTS =
@@ -231,14 +216,13 @@ untitled.exe: CMakeFiles/untitled.dir/Code/src/Cities.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/Code/src/Pipes.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/Code/src/Reservoirs.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/Code/src/Stations.cpp.obj
-untitled.exe: CMakeFiles/untitled.dir/Code/src/Graph.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/Code/src/Utils.cpp.obj
-untitled.exe: CMakeFiles/untitled.dir/Code/src/newGraph.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Code/src/Graph.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/build.make
 untitled.exe: CMakeFiles/untitled.dir/linkLibs.rsp
 untitled.exe: CMakeFiles/untitled.dir/objects1.rsp
 untitled.exe: CMakeFiles/untitled.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\mmaru\Desktop\uni\UNI_2023-24\DA\feup-da-proj1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Linking CXX executable untitled.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\mmaru\Desktop\uni\UNI_2023-24\DA\feup-da-proj1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX executable untitled.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\untitled.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

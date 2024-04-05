@@ -15,8 +15,6 @@ file(REMOVE_RECURSE
   "CMakeFiles/untitled.dir/Code/src/Stations.cpp.obj.d"
   "CMakeFiles/untitled.dir/Code/src/Utils.cpp.obj"
   "CMakeFiles/untitled.dir/Code/src/Utils.cpp.obj.d"
-  "CMakeFiles/untitled.dir/Code/src/newGraph.cpp.obj"
-  "CMakeFiles/untitled.dir/Code/src/newGraph.cpp.obj.d"
   "CMakeFiles/untitled.dir/main.cpp.obj"
   "CMakeFiles/untitled.dir/main.cpp.obj.d"
   "libuntitled.dll.a"
