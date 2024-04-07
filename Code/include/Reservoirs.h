@@ -14,30 +14,31 @@ public:
     /// @param reservoir_id Integer with the Unique Identifier of the Water Reservoir
     /// @param reservoir_code String with the Code of the Water Reservoir
     /// @param max_delivery Integer with the Maximum Delivery of the Water Reservoir in m^3/sec
-    Reservoir(string reservoir_name, string municipality, int reservoir_id, string reservoir_code, int max_delivery); // Constructor
+    Reservoir(string reservoir_name, string municipality, int reservoir_id, string reservoir_code, int max_delivery);
 
     /// @brief A Default Empty Constructor for the Water Reservoir
-    Reservoir() = default; // Default Constructor
+    Reservoir() = default;
 
     /// @brief A Function used to get the Name of a Water Reservoir
     /// @return Returns the String of the Name of a Water Reservoir
-    string getReservoirName() const;    // Return the name of the reservoir
+    string getReservoirName() const;
 
     /// @brief A Function used to get the Municipality of a Water Reservoir
     /// @return Returns the String of the Municipality of a Water Reservoir
-    string getMunicipality() const;     // Return the name of the municipality
+    string getMunicipality() const;
 
     /// @brief A Function used to get the ID of a Water Reservoir
     /// @return Returns the Integer of the ID of a Water Reservoir
-    int getReservoirId() const;         // Return the reservoir id
+    int getReservoirId() const;
 
     /// @brief A Function used to get the City of a Delivery Site
     /// @return Returns the String of the City of a Delivery Site
-    string getReservoirCode() const;    // Return the reservoir code
+    string getReservoirCode() const;
 
     /// @brief A Function used to get the City of a Delivery Site
     /// @return Returns the Integer of the City of a Delivery Site
-    int getMaxDelivery() const;         // Return the max delivery
+    int getMaxDelivery() const;
+
 private:
     /// @brief Water Reservoir Name
     string reservoir_name_;
@@ -54,4 +55,5 @@ private:
     /// @brief Maximum Delivery of Water Reservoir in m^3/sec
     int max_delivery_;
 };
+
 #endif //RESERVOIRS_H

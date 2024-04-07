@@ -1,5 +1,6 @@
 #include "../include/Utils.h"
 
+
 void Utils::testAndVisit(queue<Vertex *> &q, Edge *e, Vertex *v, const double residual) {
     if(!v->isVisited() && residual>0) {
         v->setVisited(true);
@@ -100,7 +101,5 @@ void Utils::edmondsKarp(Graph *g, string source, string target) {
 void Utils::dijkstra(Vertex *source, Vertex *dest) {
 
 }
-
-
 
 
