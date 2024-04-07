@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.27)
-project(untitled)
+project(DAProject)
 
 set(CMAKE_CXX_STANDARD 17)
 
@@ -16,4 +16,8 @@ add_executable(untitled main.cpp
         Code/src/Pipes.cpp
         Code/src/Reservoirs.cpp
         Code/src/Stations.cpp
+        Code/src/Utils.cpp
+        Code/include/Utils.h
+        Code/src/Graph.cpp
+        Code/include/Graph.h
 )

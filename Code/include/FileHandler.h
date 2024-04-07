@@ -1,6 +1,7 @@
 #ifndef FILEHANDLER_H
 #define FILEHANDLER_H
 
+#include <locale>
 #include <string>
 #include <iostream>
 #include <fstream>
@@ -12,7 +13,7 @@
 #include "Stations.h"
 #include "Cities.h"
 #include "Pipes.h"
-
+#include "Graph.h"
 
 using namespace std;
 
@@ -59,6 +60,11 @@ public:
     ///@brief A Function used get the vector with all Pipes
     ///@return Returns the Vector Containing all the Pipelines
     vector<Pipe> getPipesVector();
+
+    ///@brief A Function used get the Graph with all Reservoirs, Cities, Stations and Pipes
+    ///@return Returns the Graph Containing all information
+    Graph * getGraph();
+
 private:
     ///@brief Vector with the Water Reservoirs
     vector<Reservoir> reservoirs_;

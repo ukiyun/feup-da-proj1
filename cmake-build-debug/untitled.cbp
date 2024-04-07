@@ -88,6 +88,9 @@
 		<Unit filename="C:/Users/mmaru/Desktop/uni/UNI_2023-24/DA/feup-da-proj1/Code/include/FileHandler.h">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="C:/Users/mmaru/Desktop/uni/UNI_2023-24/DA/feup-da-proj1/Code/include/Graph.h">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="C:/Users/mmaru/Desktop/uni/UNI_2023-24/DA/feup-da-proj1/Code/include/Menu.h">
 			<Option target="untitled"/>
 		</Unit>
@@ -106,6 +109,9 @@
 		<Unit filename="C:/Users/mmaru/Desktop/uni/UNI_2023-24/DA/feup-da-proj1/Code/src/FileHandler.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="C:/Users/mmaru/Desktop/uni/UNI_2023-24/DA/feup-da-proj1/Code/src/Graph.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="C:/Users/mmaru/Desktop/uni/UNI_2023-24/DA/feup-da-proj1/Code/src/Menu.cpp">
 			<Option target="untitled"/>
 		</Unit>
@@ -116,6 +122,12 @@
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/mmaru/Desktop/uni/UNI_2023-24/DA/feup-da-proj1/Code/src/Stations.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/mmaru/Desktop/uni/UNI_2023-24/DA/feup-da-proj1/Code/src/Utils.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/mmaru/Desktop/uni/UNI_2023-24/DA/feup-da-proj1/Code/src/Utils.h">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/mmaru/Desktop/uni/UNI_2023-24/DA/feup-da-proj1/main.cpp">
